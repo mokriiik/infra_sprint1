@@ -1,0 +1,5 @@
+IP: 158.160.73.10;
+name_taski: https://mokriiiii.hopto.org;
+name_kittygram: https://finalkaayaprak.hopto.org;
+login: admin;
+password: admin;
